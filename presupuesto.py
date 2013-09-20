@@ -2,6 +2,9 @@
 
 class ModeloDePresupuesto:
     
+    
+    #Me gusta python 
+    
     #datos comerciales
     titulo = "PRESUPUESTO"
     encabezado_nombre = "Emilio del carpio"

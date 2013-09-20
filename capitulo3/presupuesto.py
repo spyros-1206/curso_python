@@ -100,7 +100,7 @@ class ModeloDePresupuesto:
 
     # Armar el presupuesto 
     def armar_presupuesto(self):
-        """Esta función se encarga de armar todo el presupuesto Completo"""
+        """Esta función se encarga de armar todo el presupuesto"""
 
         self.armar_numero_presupuesto()         # traigo numero de presupuesto
 
